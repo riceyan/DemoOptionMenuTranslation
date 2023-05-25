@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Option Menu Translation</string>
+    <string name="translateText">Hello</string>
+    <string name="translateText2">Bye</string>
+    <string name="menuItem">English</string>
+    <string name="menuItem2">Italian</string>
+</resources>
